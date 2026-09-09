@@ -27,3 +27,5 @@ End-to-end ML pipeline comparing Random Forest, SVM, and Neural Network models (
 
 ### 📫 Let's connect
 Feel free to explore my repositories or reach out if you're interested in biomedical engineering, machine learning, or collaborating on a project.
+🏆 [Kaggle]([https://www.kaggle.com/your-kaggle-username](https://www.kaggle.com/emmanuelselestine))
+📧 your.emmanuelselestine246@gmail.com
