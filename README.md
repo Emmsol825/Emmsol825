@@ -63,7 +63,7 @@ An end-to-end ML pipeline comparing Random Forest, SVM, and Neural Network model
 
 Feel free to explore my repositories or reach out if you're interested in biomedical engineering, machine learning, or collaborating on a project.
 
-- 📧 **Email:** `your-email@example.com`
+- 📧 **Email:** `eemmanuelselestine246@gmail.com`
 - 💼 **LinkedIn:** *add your LinkedIn link here*
 - 🌍 **Based in:** Tanzania
 
